@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\UnityLesoon_Csharp\\UnityLesson_Csharp_if\\UnityLesson_Csharp_if.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesoon_Csharp\\UnityLesson_Csharp_if\\UnityLesson_Csharp_if.csproj",
       "projectName": "UnityLesson_Csharp_if",
-      "projectPath": "C:\\Users\\User\\source\\repos\\UnityLesoon_Csharp\\UnityLesson_Csharp_if\\UnityLesson_Csharp_if.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesoon_Csharp\\UnityLesson_Csharp_if\\UnityLesson_Csharp_if.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\UnityLesoon_Csharp\\UnityLesson_Csharp_if\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesoon_Csharp\\UnityLesson_Csharp_if\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

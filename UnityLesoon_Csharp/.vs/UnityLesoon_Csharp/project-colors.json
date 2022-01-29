@@ -25,7 +25,42 @@
       "ProjectGuid": "cf6961a4-0cc6-4fd8-b47c-5b1fa4541a85",
       "DisplayName": "UnityLesson_Csharp_Method",
       "ColorIndex": 4
+    },
+    "a6bd25c0-d09a-471c-ab1e-51476f4cc34f": {
+      "ProjectGuid": "a6bd25c0-d09a-471c-ab1e-51476f4cc34f",
+      "DisplayName": "UnityLesoon_Csharp_ClassInCudingVariablesFunctions",
+      "ColorIndex": 5
+    },
+    "44f29741-fbeb-4c01-90cd-b156487b4806": {
+      "ProjectGuid": "44f29741-fbeb-4c01-90cd-b156487b4806",
+      "DisplayName": "UnityLesson_Csharp_ClassObjectInstance",
+      "ColorIndex": 6
+    },
+    "f3e37239-ece8-481a-bba7-ef3db7673788": {
+      "ProjectGuid": "f3e37239-ece8-481a-bba7-ef3db7673788",
+      "DisplayName": "UnityLesson_Csharp_InstantiationOfClass",
+      "ColorIndex": 7
+    },
+    "078d11c3-386e-4c05-a9ed-3d3c489c399d": {
+      "ProjectGuid": "078d11c3-386e-4c05-a9ed-3d3c489c399d",
+      "DisplayName": "UnityLesson_Csharp_StaticExample",
+      "ColorIndex": 8
+    },
+    "42627a99-109f-4379-ad01-f506bafd7a40": {
+      "ProjectGuid": "42627a99-109f-4379-ad01-f506bafd7a40",
+      "DisplayName": "UnityLesson_Csharp_InstantiationExample1",
+      "ColorIndex": 9
+    },
+    "6db2085c-2daa-4bc1-b2f6-16587fcbc479": {
+      "ProjectGuid": "6db2085c-2daa-4bc1-b2f6-16587fcbc479",
+      "DisplayName": "UnityLesson_Csharp_Operator",
+      "ColorIndex": 10
+    },
+    "840c00cf-858f-48d8-8a99-5e06d27920f0": {
+      "ProjectGuid": "840c00cf-858f-48d8-8a99-5e06d27920f0",
+      "DisplayName": "UnityLesson_Csharp_Operators",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 12
 }

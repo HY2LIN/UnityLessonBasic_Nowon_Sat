@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\UnityLesoon_Csharp\\UnityLesson_Csharp_Variable\\UnityLesson_Csharp_Variable.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesoon_Csharp\\UnityLesson_Csharp_Variable\\UnityLesson_Csharp_Variable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\UnityLesoon_Csharp\\UnityLesson_Csharp_Variable\\UnityLesson_Csharp_Variable.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesoon_Csharp\\UnityLesson_Csharp_Variable\\UnityLesson_Csharp_Variable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\UnityLesoon_Csharp\\UnityLesson_Csharp_Variable\\UnityLesson_Csharp_Variable.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesoon_Csharp\\UnityLesson_Csharp_Variable\\UnityLesson_Csharp_Variable.csproj",
         "projectName": "UnityLesson_Csharp_Variable",
-        "projectPath": "C:\\Users\\User\\source\\repos\\UnityLesoon_Csharp\\UnityLesson_Csharp_Variable\\UnityLesson_Csharp_Variable.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesoon_Csharp\\UnityLesson_Csharp_Variable\\UnityLesson_Csharp_Variable.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\UnityLesoon_Csharp\\UnityLesson_Csharp_Variable\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesoon_Csharp\\UnityLesson_Csharp_Variable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
